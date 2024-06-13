@@ -1,0 +1,10 @@
+
+.user {
+    cursor: pointer;
+}
+.user:hover {
+    color:rgb(164, 182, 198)
+}
+.unread {
+    color: rgb(136, 242, 90);
+}
